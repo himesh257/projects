@@ -2,7 +2,7 @@
 
 Making a trading bot efficient enough to trade for the user
 
-<h3>Requirement List</h3>
+<h3>Things to know for coding:</h3>
 
 1. Get data from Yahoo Finance by simple webscraping (NOTE: if the website changes its format, meaning if any of the tags get changed, it will not give you right data. The solution for that will be to create a 'watch dog' that checks for the changes and modifies the code accordingly)
     - It needs to fetch data every minute (subject to change), so that required trade can happen
