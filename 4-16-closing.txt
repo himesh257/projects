@@ -1,0 +1,492 @@
+{
+    "Abbott Laboratories": {
+        "Change ": "96.00",
+        "Change(%)": "+5.06",
+        "Ticker ": "ABT"
+    },
+    "Advance Auto Parts, Inc.": {
+        "Change ": "117.53",
+        "Change(%)": "+5.54",
+        "Ticker ": "AAP"
+    },
+    "Akamai Technologies, Inc.": {
+        "Change ": "105.84",
+        "Change(%)": "+5.45",
+        "Ticker ": "AKAM"
+    },
+    "Alnylam Pharmaceuticals, Inc.": {
+        "Change ": "127.72",
+        "Change(%)": "+6.22",
+        "Ticker ": "ALNY"
+    },
+    "Amicus Therapeutics, Inc.": {
+        "Change ": "10.61",
+        "Change(%)": "+0.58",
+        "Ticker ": "FOLD"
+    },
+    "Amkor Technology, Inc.": {
+        "Change ": "9.17",
+        "Change(%)": "+0.53",
+        "Ticker ": "AMKR"
+    },
+    "Anthem, Inc.": {
+        "Change ": "271.84",
+        "Change(%)": "+21.37",
+        "Ticker ": "ANTM"
+    },
+    "Apollo Global Management, Inc.": {
+        "Change ": "36.33",
+        "Change(%)": "+2.31",
+        "Ticker ": "APO"
+    },
+    "Appian Corporation": {
+        "Change ": "43.82",
+        "Change(%)": "+4.29",
+        "Ticker ": "APPN"
+    },
+    "AutoZone, Inc.": {
+        "Change ": "978.52",
+        "Change(%)": "+45.86",
+        "Ticker ": "AZO"
+    },
+    "Ballard Power Systems Inc.": {
+        "Change ": "10.01",
+        "Change(%)": "+0.55",
+        "Ticker ": "BLDP"
+    },
+    "Baozun Inc.": {
+        "Change ": "31.99",
+        "Change(%)": "+1.55",
+        "Ticker ": "BZUN"
+    },
+    "Bio-Techne Corporation": {
+        "Change ": "211.98",
+        "Change(%)": "+10.49",
+        "Ticker ": "TECH"
+    },
+    "BlackBerry Limited": {
+        "Change ": "4.0100",
+        "Change(%)": "+0.3100",
+        "Ticker ": "BB"
+    },
+    "Blueprint Medicines Corporation": {
+        "Change ": "67.87",
+        "Change(%)": "+3.54",
+        "Ticker ": "BPMC"
+    },
+    "Carter's, Inc.": {
+        "Change ": "72.39",
+        "Change(%)": "+3.62",
+        "Ticker ": "CRI"
+    },
+    "Centene Corporation": {
+        "Change ": "72.85",
+        "Change(%)": "+3.83",
+        "Ticker ": "CNC"
+    },
+    "Chr. Hansen Holding A/S": {
+        "Change ": "21.15",
+        "Change(%)": "+1.91",
+        "Ticker ": "CHYHY"
+    },
+    "Cigna Corporation": {
+        "Change ": "195.35",
+        "Change(%)": "+12.75",
+        "Ticker ": "CI"
+    },
+    "Clarivate Analytics Plc": {
+        "Change ": "22.56",
+        "Change(%)": "+1.42",
+        "Ticker ": "CCC"
+    },
+    "Cloudflare, Inc.": {
+        "Change ": "25.42",
+        "Change(%)": "+1.53",
+        "Ticker ": "NET"
+    },
+    "Cogent Communications Holdings, Inc.": {
+        "Change ": "90.75",
+        "Change(%)": "+4.69",
+        "Ticker ": "CCOI"
+    },
+    "Compania Cervecerias Unidas S.A.": {
+        "Change ": "15.39",
+        "Change(%)": "+1.06",
+        "Ticker ": "CCU"
+    },
+    "DexCom, Inc.": {
+        "Change ": "306.27",
+        "Change(%)": "+14.58",
+        "Ticker ": "DXCM"
+    },
+    "Dunkin' Brands Group, Inc.": {
+        "Change ": "58.34",
+        "Change(%)": "+3.03",
+        "Ticker ": "DNKN"
+    },
+    "Etsy, Inc.": {
+        "Change ": "59.72",
+        "Change(%)": "+3.00",
+        "Ticker ": "ETSY"
+    },
+    "Everbridge, Inc.": {
+        "Change ": "118.20",
+        "Change(%)": "+6.74",
+        "Ticker ": "EVBG"
+    },
+    "Exact Sciences Corporation": {
+        "Change ": "71.42",
+        "Change(%)": "+4.60",
+        "Ticker ": "EXAS"
+    },
+    "Experian plc": {
+        "Change ": "28.94",
+        "Change(%)": "+1.39",
+        "Ticker ": "EXPGY"
+    },
+    "Federal National Mortgage Association": {
+        "Change ": "1.9000",
+        "Change(%)": "+0.1901",
+        "Ticker ": "FNMA"
+    },
+    "FibroGen, Inc.": {
+        "Change ": "37.15",
+        "Change(%)": "+1.79",
+        "Ticker ": "FGEN"
+    },
+    "Five9, Inc.": {
+        "Change ": "90.89",
+        "Change(%)": "+4.91",
+        "Ticker ": "FIVN"
+    },
+    "Freddie Mac": {
+        "Change ": "1.7450",
+        "Change(%)": "+0.1650",
+        "Ticker ": "FMCC"
+    },
+    "GDS Holdings Limited": {
+        "Change ": "55.61",
+        "Change(%)": "+3.83",
+        "Ticker ": "GDS"
+    },
+    "GSX Techedu Inc.": {
+        "Change ": "31.72",
+        "Change(%)": "+2.05",
+        "Ticker ": "GSX"
+    },
+    "GlaxoSmithKline plc": {
+        "Change ": "41.80",
+        "Change(%)": "+1.98",
+        "Ticker ": "GSK"
+    },
+    "Hiscox Ltd": {
+        "Change ": "10.00",
+        "Change(%)": "+1.00",
+        "Ticker ": "HCXLF"
+    },
+    "Humana Inc.": {
+        "Change ": "377.31",
+        "Change(%)": "+23.77",
+        "Ticker ": "HUM"
+    },
+    "IAC/InterActiveCorp": {
+        "Change ": "218.01",
+        "Change(%)": "+10.85",
+        "Ticker ": "IAC"
+    },
+    "Incyte Corporation": {
+        "Change ": "95.66",
+        "Change(%)": "+4.71",
+        "Ticker ": "INCY"
+    },
+    "JD.com, Inc.": {
+        "Change ": "47.50",
+        "Change(%)": "+2.90",
+        "Ticker ": "JD"
+    },
+    "JOYY Inc.": {
+        "Change ": "61.39",
+        "Change(%)": "+3.34",
+        "Ticker ": "YY"
+    },
+    "Katanga Mining Limited": {
+        "Change ": "0.0620",
+        "Change(%)": "+0.0045",
+        "Ticker ": "KATFF"
+    },
+    "Keyera Corp.": {
+        "Change ": "11.47",
+        "Change(%)": "+0.58",
+        "Ticker ": "KEYUF"
+    },
+    "LendingTree, Inc.": {
+        "Change ": "192.16",
+        "Change(%)": "+11.81",
+        "Ticker ": "TREE"
+    },
+    "Liberty TripAdvisor Holdings, Inc.": {
+        "Change ": "59.00",
+        "Change(%)": "+24.31",
+        "Ticker ": "LTRPB"
+    },
+    "Lloyds Banking Group plc": {
+        "Change ": "1.4100",
+        "Change(%)": "-0.0200",
+        "Ticker ": "LYG"
+    },
+    "MKS Instruments, Inc.": {
+        "Change ": "90.65",
+        "Change(%)": "+5.25",
+        "Ticker ": "MKSI"
+    },
+    "MarketAxess Holdings Inc.": {
+        "Change ": "436.50",
+        "Change(%)": "+23.30",
+        "Ticker ": "MKTX"
+    },
+    "Match Group, Inc.": {
+        "Change ": "78.87",
+        "Change(%)": "+4.38",
+        "Ticker ": "MTCH"
+    },
+    "Medallia, Inc.": {
+        "Change ": "20.08",
+        "Change(%)": "+0.98",
+        "Ticker ": "MDLA"
+    },
+    "Melco Resorts & Entertainment Limited": {
+        "Change ": "14.62",
+        "Change(%)": "+1.03",
+        "Ticker ": "MLCO"
+    },
+    "Mimecast Limited": {
+        "Change ": "35.58",
+        "Change(%)": "+1.87",
+        "Ticker ": "MIME"
+    },
+    "Mirati Therapeutics, Inc.": {
+        "Change ": "87.07",
+        "Change(%)": "+4.18",
+        "Ticker ": "MRTX"
+    },
+    "Mitsubishi UFJ Financial Group, Inc.": {
+        "Change ": "3.9000",
+        "Change(%)": "+0.2900",
+        "Ticker ": "MBFJF"
+    },
+    "Moderna, Inc.": {
+        "Change ": "40.60",
+        "Change(%)": "+3.35",
+        "Ticker ": "MRNA"
+    },
+    "Molina Healthcare, Inc.": {
+        "Change ": "170.97",
+        "Change(%)": "+10.77",
+        "Ticker ": "MOH"
+    },
+    "MyoKardia, Inc.": {
+        "Change ": "56.27",
+        "Change(%)": "+3.01",
+        "Ticker ": "MYOK"
+    },
+    "NVIDIA Corporation": {
+        "Change ": "294.70",
+        "Change(%)": "+13.86",
+        "Ticker ": "NVDA"
+    },
+    "Neogen Corporation": {
+        "Change ": "65.17",
+        "Change(%)": "+3.94",
+        "Ticker ": "NEOG"
+    },
+    "Nidec Corporation": {
+        "Change ": "53.72",
+        "Change(%)": "+2.82",
+        "Ticker ": "NNDNF"
+    },
+    "Nokia Corporation": {
+        "Change ": "3.4600",
+        "Change(%)": "+0.2300",
+        "Ticker ": "NOK"
+    },
+    "Option Care Health, Inc.": {
+        "Change ": "12.31",
+        "Change(%)": "+0.94",
+        "Ticker ": "OPCH"
+    },
+    "Principia Biopharma Inc.": {
+        "Change ": "64.80",
+        "Change(%)": "+6.85",
+        "Ticker ": "PRNB"
+    },
+    "Quidel Corporation": {
+        "Change ": "109.83",
+        "Change(%)": "+8.13",
+        "Ticker ": "QDEL"
+    },
+    "Regeneron Pharmaceuticals, Inc.": {
+        "Change ": "539.93",
+        "Change(%)": "+28.24",
+        "Ticker ": "REGN"
+    },
+    "Roku, Inc.": {
+        "Change ": "128.00",
+        "Change(%)": "+15.00",
+        "Ticker ": "ROKU"
+    },
+    "Royal Gold, Inc.": {
+        "Change ": "111.73",
+        "Change(%)": "+6.92",
+        "Ticker ": "RGLD"
+    },
+    "SINA Corporation": {
+        "Change ": "35.10",
+        "Change(%)": "+1.79",
+        "Ticker ": "SINA"
+    },
+    "Safehold Inc.": {
+        "Change ": "54.53",
+        "Change(%)": "+3.02",
+        "Ticker ": "SAFE"
+    },
+    "Schrodinger, Inc.": {
+        "Change ": "40.84",
+        "Change(%)": "+4.72",
+        "Ticker ": "SDGR"
+    },
+    "Sea Limited": {
+        "Change ": "53.95",
+        "Change(%)": "+4.17",
+        "Ticker ": "SE"
+    },
+    "Seattle Genetics, Inc.": {
+        "Change ": "133.40",
+        "Change(%)": "+8.36",
+        "Ticker ": "SGEN"
+    },
+    "Semiconductor Manufacturing International Corporation": {
+        "Change ": "9.61",
+        "Change(%)": "+0.47",
+        "Ticker ": "SMICY"
+    },
+    "Shenandoah Telecommunications Company": {
+        "Change ": "51.58",
+        "Change(%)": "+3.14",
+        "Ticker ": "SHEN"
+    },
+    "Shopify Inc.": {
+        "Change ": "526.43",
+        "Change(%)": "+29.26",
+        "Ticker ": "SHOP"
+    },
+    "Smurfit Kappa Group Plc": {
+        "Change ": "27.76",
+        "Change(%)": "+1.34",
+        "Ticker ": "SMFKY"
+    },
+    "Sprouts Farmers Market, Inc.": {
+        "Change ": "20.35",
+        "Change(%)": "+1.37",
+        "Ticker ": "SFM"
+    },
+    "Stamps.com Inc.": {
+        "Change ": "144.06",
+        "Change(%)": "+7.39",
+        "Ticker ": "STMP"
+    },
+    "Taiwan Semiconductor Manufacturing Company Limited": {
+        "Change ": "52.40",
+        "Change(%)": "+2.74",
+        "Ticker ": "TSM"
+    },
+    "Tandem Diabetes Care, Inc.": {
+        "Change ": "71.87",
+        "Change(%)": "+4.49",
+        "Ticker ": "TNDM"
+    },
+    "Tata Motors Limited": {
+        "Change ": "4.9300",
+        "Change(%)": "+0.2400",
+        "Ticker ": "TTM"
+    },
+    "Telephone and Data Systems, Inc.": {
+        "Change ": "18.57",
+        "Change(%)": "+1.31",
+        "Ticker ": "TDS"
+    },
+    "The Blackstone Group Inc.": {
+        "Change ": "47.96",
+        "Change(%)": "+2.46",
+        "Ticker ": "BX"
+    },
+    "The Hain Celestial Group, Inc.": {
+        "Change ": "27.16",
+        "Change(%)": "+1.95",
+        "Ticker ": "HAIN"
+    },
+    "The J. M. Smucker Company": {
+        "Change ": "121.13",
+        "Change(%)": "+5.73",
+        "Ticker ": "SJM"
+    },
+    "The a2 Milk Company Limited": {
+        "Change ": "12.00",
+        "Change(%)": "+0.94",
+        "Ticker ": "ACOPY"
+    },
+    "TreeHouse Foods, Inc.": {
+        "Change ": "49.49",
+        "Change(%)": "+4.10",
+        "Ticker ": "THS"
+    },
+    "United States Cellular Corporation": {
+        "Change ": "31.36",
+        "Change(%)": "+2.78",
+        "Ticker ": "USM"
+    },
+    "UnitedHealth Group Incorporated": {
+        "Change ": "298.43",
+        "Change(%)": "+16.75",
+        "Ticker ": "UNH"
+    },
+    "Vedanta Limited": {
+        "Change ": "4.2800",
+        "Change(%)": "+0.2300",
+        "Ticker ": "VEDL"
+    },
+    "Vipshop Holdings Limited": {
+        "Change ": "18.80",
+        "Change(%)": "+1.16",
+        "Ticker ": "VIPS"
+    },
+    "Werner Enterprises, Inc.": {
+        "Change ": "39.35",
+        "Change(%)": "+1.96",
+        "Ticker ": "WERN"
+    },
+    "XP Inc.": {
+        "Change ": "25.45",
+        "Change(%)": "+2.06",
+        "Ticker ": "XP"
+    },
+    "Xilinx, Inc.": {
+        "Change ": "89.61",
+        "Change(%)": "+5.45",
+        "Ticker ": "XLNX"
+    },
+    "Yamana Gold Inc.": {
+        "Change ": "4.3600",
+        "Change(%)": "+0.2000",
+        "Ticker ": "AUY"
+    },
+    "ZTO Express (Cayman) Inc.": {
+        "Change ": "29.02",
+        "Change(%)": "+2.46",
+        "Ticker ": "ZTO"
+    },
+    "bluebird bio, Inc.": {
+        "Change ": "52.56",
+        "Change(%)": "+5.19",
+        "Ticker ": "BLUE"
+    }
+}
