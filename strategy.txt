@@ -1,0 +1,14 @@
+
+NOTE: all the numbers in this file are subject to change
+
+-- Two main things 1) an algorithm for picking stocks
+		   2) an algorithm with an exit strategy
+-- All the stocks will be bought by looking at "yesterday's" data. Meaning, it will look at the top gainers of "yesterday" and only purchase the stocks of some of those companies who have gained money. Might need to come up with a better algorithm for picking stocks 
+
+-- Invest 3/4th of the initial wealth, equally distributed to every stock. This should change in future as you want to invent more in stocks that have gained more money over time
+-- The inital wealth will change everyday and the same process of investing 3/4th of it will be repeated
+-- We will look at the change in % of every stock about every 5 minutes. If it is greter than 12% we sell the stock. This method is a static exit strategy which is not ideal, so in the end we will use maybe a dynamic strategy to increase the profit rate
+-- We will set a stop loss as well. Right now if the price drops to $(original price - 10) then we sell. Again this value is static and will be modified in the future
+-- If the price hasn't increased as desired then hold on to that stock until it either grows or dies. It is not perfect but for the inital build it's fine
+
+If everything works out properley, then the end goal would be to look at different strategies and either combine them as one or create a new strategy from scratch and implement that.
