@@ -1,14 +1,10 @@
 # TradingBot
 
-Making a trading bot efficient enough to trade automatically for the user
+# How it works:
+We get the data by doing some web scraping on Yahoo Finance's website. Once the we have the data, we refresh it every minute and make the decisions to either buy or sell. At the moment, it is configured such that, if the stock price has changed >=15% then we buy it and we keep track of those stocks, and if the changed amount goes up by 15% + 2% then we sell it. All these values are configurable (see config.py). All the information regarding the configurable variables is included in the config.py file
 
-<h3>Things to know for coding:</h3>
+# How to run:
+At the moment, use any linux os to run the code. Set a cronjob that runs everyday between 9:00am to 4:30pm (US stock market hours). It will create a logfile.txt log file under user's desktop directory which keeps track of all the buying and selling of stocks
 
-1. The program needs to run for indefinite amount of time in the background (use something like "nohup" for that)
-2. Get data from Yahoo Finance by simple webscraping (<u>NOTE:</u> if the website changes its format, meaning if any of the tags get changed in html, it will not return correct data. The solution for that will be to create a "watch dog" that checks for the changes and modifies the code accordingly)
-    - It needs to fetch data every minute (subject to change), so that required trade can happen
-3. Come up with a simple but effective trading strategy
-    - Make sure that not more than certain amount of money is being used to trade
-    - Keep looking at the changes in price to select when and which stock to buy or sell
-    - Try to make it such that no loss ever occures
-4. Use Robinhood's api to trade stocks!
+# Next steps:
+Next steps are to test it thorogully and see how to make the algorithm even more efficient. Learn more about algorithmic trading. The final steps will be to set up an email server which will send out emails at the end of say each day with detailed summary of that day's trades. Graphical representation of trades along with complete summary will be included in the email
